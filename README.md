@@ -1,3 +1,17 @@
+<p align="center"><img src="buildroot/share/pixmaps/logo/prusa-red-bear.png" height="300" alt="MarlinFirmware's logo" /></p>
+
+<h1 align="center">Prusa MK3S Marlin Firmware<br />BTT002 V1 / Multi-TMC / BMG</h1>
+
+<p align="center">
+    <a href="/LICENSE"><img alt="GPL-V3.0 License" src="https://img.shields.io/github/license/thisiskeithb/marlin.svg"></a>
+    <a href="https://github.com/thisiskeithb/Marlin/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/thisiskeithb/marlin.svg"></a>
+    <a href="https://github.com/thisiskeithb/Marlin/commits/myconfig/MK3S-BTT002-TMC-Multi-BMG"><img alt="Last Commit Date" src="https://img.shields.io/github/last-commit/thisiskeithb/Marlin/myconfig/MK3S-BTT002-TMC-Multi-BMG"></a>
+    <a href="https://github.com/thisiskeithb/Marlin/actions"><img alt="CI Status" src="https://img.shields.io/github/actions/workflow/status/thisiskeithb/marlin/test-build.yml?branch=myconfig%2FMK3S-BTT002-TMC-Multi-BMG&label=CI"></a>
+    <a href="https://github.com/sponsors/thisiskeithb"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/thisiskeithb?logo=github%20sponsors&label=GitHub%20Sponsors&color=ea4aaa"></a>
+    <br />
+    <a href="https://twitter.com/thisiskeithb"><img alt="Follow thisiskeithb on Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/thisiskeithb.svg?style=social&label=Follow%20%40thisiskeithb"></a>
+</p>
+
 # ⚡ TPS40057-Buck-Converter-Module ⚙️
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Digispark-ATTINY85/latest)](https://github.com/yasir-shahzad/Digispark-ATTINY85/commits/master) 
